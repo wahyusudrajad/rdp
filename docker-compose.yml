@@ -1,7 +1,3 @@
-🔥 Pterodactyl Command Docker By Ryuuzyy 😈
-
-⟩ - - - Isi File docker-compose.yml : - - - ⟨
-
 version: '3.8'
 x-common:
   database:
